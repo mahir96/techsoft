@@ -1,0 +1,23 @@
+{
+  "name": "techsoft",
+  "version": "1.0.0",
+  "description": "animation",
+  "main": "index.html",
+  "hompage": "https://mahir96.github.io/techsoft",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahir96/techsoft.git"
+  },
+  "author": "mahir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahir96/techsoft/issues"
+  }
+}
